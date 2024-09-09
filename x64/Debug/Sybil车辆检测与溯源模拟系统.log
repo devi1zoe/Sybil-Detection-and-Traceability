@@ -1,0 +1,26 @@
+﻿D:\App\Visual_studio\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(Sybil车辆检测与溯源模拟系统.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(233,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(238,34): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(277,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(281,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(376,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(380,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(482,33): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(486,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(582,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(587,31): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(637,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(642,37): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(728,39): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(992,29): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(1003,34): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(1054,22): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(1363,21): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(1364,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(1369,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(1370,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(898): warning C4715: “findYellowCar”: 不是所有的控件路径都返回值
+C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\源.cpp(906): warning C4715: “findSendingCar”: 不是所有的控件路径都返回值
+  LINK : 没有找到 C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\x64\Debug\Sybil Detection and Traceability.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Sybil车辆检测与溯源模拟系统.vcxproj -> C:\Users\devi1zoe\Desktop\Sybil车辆检测与溯源模拟系统\Sybil车辆检测与溯源模拟系统\x64\Debug\Sybil Detection and Traceability.exe
