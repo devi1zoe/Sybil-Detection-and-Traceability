@@ -1,6 +1,20 @@
 # Sybil-Detection-and-Traceability
 
-论文成果：《MVDetector: Malicious vehicles detection under Sybil attacks in VANETs》同意录用。
+## 论文
+
+**MVDetector: Malicious Vehicles Detection Under Sybil Attacks in VANETs**
+
+Yiming Wei, Weiye Qi, Zechuan Li, Yufan Han, Yingxu Lai.
+
+- [正式出版页面](https://link.springer.com/chapter/10.1007/978-3-031-75764-8_16)
+- [DOI](https://doi.org/10.1007/978-3-031-75764-8_16)
+- 会议：ISC 2024；论文集：*Information Security*，LNCS 15258，pp. 307–322。
+- 首次在线日期为 2024-10-17；出版社推荐引用年份为 2025。
+- [BibTeX 引用](paper/citation.bib)
+
+当前仓库提供本人负责的模拟展示界面，不包含论文全部实验代码。论文全文请从出版页面访问；本仓库尚未收录作者稿 PDF。
+
+## 项目与个人贡献
 
 其他成果：作为北京工业大学“星火基金”重点项目，获得第十七届全国大学生信息安全竞赛作品赛优胜奖。
 
